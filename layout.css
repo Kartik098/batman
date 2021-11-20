@@ -82,7 +82,7 @@ footer{
     color: lightslategray;
     background-color: #F6F6F6;
     text-align: center;
-    background-image: url(images/batmanfooter.jpg);
+    background-image: url(batmanfooter.jpg);
     background-size: 100% 300px;
 }
 footer  i {
